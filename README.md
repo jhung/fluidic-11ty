@@ -1,7 +1,6 @@
-# Fluid Project Website
+# A simple starter kit for Eleventy based static sites for Fluid project
 
-This repository contains the files needed to build a copy of the Fluid Project website, it is not an immediately deployable version of the website.
-[11ty](http://11ty.dev/) is used to build the site from source files.
+This repository contains the files needed to build [11ty](http://11ty.dev/) based sites for Fluid-Project.
 
 ## To Build Locally
 
@@ -26,6 +25,11 @@ If you make changes to the website, repeat the steps to build the image and star
 
 1. Run: `npm run build`
 2. Copy the contents of `./dist/` directory to your server.
+
+## Features
+
+1. Integrated UIO Preference Editor
+2. Configured basic static site for making blog sites.
 
 ## Notes
 

@@ -1,5 +1,5 @@
 {
-    "name": "fluidproject.org",
+    "name": "fluidic-11ty",
     "version": "1.0.0",
     "description": "Fluid is an open, collaborative project to improve the user experience and inclusiveness of open source software.",
     "scripts": {
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fluid-project/fluidproject.org.git"
+        "url": "git+https://github.com/sachin10101998/fluidic-11ty.git"
     },
     "author": "OCAD University",
     "license": "CC-BY-4.0",
     "bugs": {
-        "url": "https://github.com/fluid-project/fluidproject.org/issues"
+        "url": "https://github.com/sachin10101998/fluidic-11ty/issues"
     },
-    "homepage": "https://github.com/fluid-project/fluidproject.org#readme",
+    "homepage": "https://github.com/sachin10101998/fluidic-11ty#readme",
     "dependencies": {
         "@11ty/eleventy": "0.11.0",
         "@11ty/eleventy-plugin-rss": "1.0.7",
