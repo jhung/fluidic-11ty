@@ -9,7 +9,7 @@
         <script type="text/javascript" src="{{ '/' | url }}assets/js/uio.js"></script>
         <script type="text/javascript" src="{{ '/' | url }}assets/js/analytics.js"></script>
         <!-- Foundation flex grid -->
-        <!--{% include partials/foundationflexgrid.html %}-->
+        {% include partials/foundationflexgrid.html %}
     </head>
     <body>
         <script type="text/javascript">
@@ -19,12 +19,10 @@
         </script>
         {% include partials/uio.html %}
         <div class="fluid-web">
-            
             <div class="row">
                 <div class="flc-toc-tocContainer toc small-12 columns"> </div>
             </div>
             {{ content }}
-            
         </div>
         <script type="text/javascript" src="{{ '/' | url }}assets/js/nav.js"></script>
     </body>   
